@@ -31,7 +31,8 @@
       "Bash(node:*)",
       "Bash(printf:*)",
       "Bash(npx vue-tsc:*)",
-      "Bash(npx vite:*)"
+      "Bash(npx vite:*)",
+      "Bash(done)"
     ]
   }
 }
